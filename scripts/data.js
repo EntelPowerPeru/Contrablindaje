@@ -5,7 +5,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL TOTAL 19.90",
     lista_beneficios: [
       "2 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -14,7 +14,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 20.90 REV",
     lista_beneficios: [
       "4 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -23,7 +23,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 20.90 PLUS",
     lista_beneficios: [
       "4 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -32,7 +32,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 25.90 REV",
     lista_beneficios: [
       "6 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -41,7 +41,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 25.90",
     lista_beneficios: [
       "6 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -50,7 +50,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP+ 29.90 REV",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -59,7 +59,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL SIMPLE+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -68,7 +68,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -77,7 +77,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 30.90 REV",
     lista_beneficios: [
       "11 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -86,7 +86,7 @@ export const lista_origen = [
     origen_nombre: "POSTPAGO SIMPLE 30.90",
     lista_beneficios: [
       "11 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -95,7 +95,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 30.90 B",
     lista_beneficios: [
       "11 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -104,7 +104,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 30.90",
     lista_beneficios: [
       "11 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -113,7 +113,7 @@ export const lista_origen = [
     origen_nombre: "POSTPAGO SIMPLE 32.90 PLUS",
     lista_beneficios: [
       "15 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -122,7 +122,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 32.90",
     lista_beneficios: [
       "15 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -131,7 +131,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 37.90 PLUS",
     lista_beneficios: [
       "20 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -140,7 +140,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL SIMPLE+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -149,7 +149,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -163,7 +163,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 43.50 REV",
     lista_beneficios: [
       "28 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -172,7 +172,7 @@ export const lista_origen = [
     origen_nombre: "POSTPAGO SIMPLE 43.50 PLUS",
     lista_beneficios: [
       "28 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -181,7 +181,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 43.50 PLUS",
     lista_beneficios: [
       "28 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -190,7 +190,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 45.90 PLUS",
     lista_beneficios: [
       "30 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -199,7 +199,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 48.90 PLUS",
     lista_beneficios: [
       "32 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -208,7 +208,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL POWER+ 49.90",
     lista_beneficios: [
       "35 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -217,7 +217,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 49.90 PLUS B",
     lista_beneficios: [
       "35 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -226,7 +226,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 49.90 PLUS A",
     lista_beneficios: [
       "14 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -235,7 +235,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CONTROL 49.90 PLUS",
     lista_beneficios: [
       "14 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -249,7 +249,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 49.90 PLUS",
     lista_beneficios: [
       "35 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -258,7 +258,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL POWER+ 55.90",
     lista_beneficios: [
       "50 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Roaming: 2.5 GB",
     ],
   },
@@ -267,7 +267,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 55.90 PLUS",
     lista_beneficios: [
       "50 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -276,7 +276,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 55.90 PLUS B",
     lista_beneficios: [
       "50 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
   },
@@ -285,7 +285,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL POWER+ 59.90",
     lista_beneficios: [
       "75 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Roaming: 3 GB",
     ],
   },
@@ -299,7 +299,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 65.90 PLUS B",
     lista_beneficios: [
       "85 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Roaming: no tiene",
     ],
   },
@@ -308,7 +308,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 65.90 PLUS",
     lista_beneficios: [
       "85 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Roaming: no tiene",
     ],
   },
@@ -337,7 +337,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL POWER+ 74.90",
     lista_beneficios: [
       "120 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Roaming: 3.5 GB",
     ],
   },
@@ -346,7 +346,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 74.90 PLUS",
     lista_beneficios: [
       "100 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Roaming: no tiene",
     ],
   },
@@ -370,7 +370,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 84.90",
     lista_beneficios: [
       "110 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: no tiene",
     ],
   },
@@ -379,7 +379,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CONTROL 84.90",
     lista_beneficios: [
       "9 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: no tiene",
     ],
   },
@@ -393,7 +393,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 89.90",
     lista_beneficios: [
       "115 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: no tiene",
     ],
   },
@@ -402,7 +402,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 94.80 PLUS",
     lista_beneficios: [
       "16 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 1 GB",
     ],
   },
@@ -411,7 +411,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 94.90",
     lista_beneficios: [
       "125 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 4 GB",
     ],
   },
@@ -435,7 +435,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 104.80 PLUS",
     lista_beneficios: [
       "17 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 1 GB",
     ],
   },
@@ -444,7 +444,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 109.90 PLUS",
     lista_beneficios: [
       "18 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 3 GB",
     ],
   },
@@ -463,7 +463,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 114.80",
     lista_beneficios: [
       "20 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 3 GB",
     ],
   },
@@ -472,7 +472,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 119.90",
     lista_beneficios: [
       "8 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 1 GB",
     ],
   },
@@ -481,7 +481,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 129.90 PLUS",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 5 GB",
     ],
   },
@@ -500,7 +500,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 145.90",
     lista_beneficios: [
       "12 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 3 GB",
     ],
   },
@@ -509,7 +509,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CONTROL 149.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 1 GB",
     ],
   },
@@ -518,7 +518,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL LIBRE 149.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 1 GB",
     ],
   },
@@ -527,7 +527,7 @@ export const lista_origen = [
     origen_nombre: "ENTEL CHIP 155.90",
     lista_beneficios: [
       "14 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
       "Roaming: 3 GB",
     ],
   },
@@ -645,7 +645,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP 25.90",
     lista_beneficios: [
       "6 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 4 GB"],
@@ -665,7 +665,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP 25.90",
     lista_beneficios: [
       "6 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 4 GB"],
@@ -685,7 +685,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP 25.90",
     lista_beneficios: [
       "6 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 4 GB"],
@@ -705,7 +705,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 1 GB"],
@@ -725,7 +725,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 1 GB"],
@@ -745,7 +745,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 1 GB"],
@@ -765,7 +765,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 1 GB"],
@@ -785,7 +785,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 5 GB"],
@@ -805,7 +805,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 5 GB"],
@@ -825,7 +825,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 10 GB"],
@@ -845,7 +845,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 15 GB"],
@@ -865,7 +865,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 29.90",
     lista_beneficios: [
       "10 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 15 GB"],
@@ -885,12 +885,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Gana 12 GB en AV",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
     ],
     ahorro_anual: 24,
     permite_downselling: true,
@@ -908,7 +908,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 3 GB"],
@@ -928,7 +928,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 3 GB"],
@@ -948,7 +948,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 3 GB"],
@@ -968,7 +968,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 5 GB"],
@@ -988,7 +988,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 7 GB"],
@@ -1008,7 +1008,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 10 GB"],
@@ -1028,7 +1028,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 10 GB"],
@@ -1048,7 +1048,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Gana 11 GB"],
@@ -1068,7 +1068,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Gana 11 GB"],
@@ -1088,12 +1088,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Gana 16 GB",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Pierde Ilimitado",
     ],
     ahorro_anual: 120,
@@ -1112,7 +1112,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 10 GB"],
@@ -1132,12 +1132,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 25 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Pierde Ilimitado",
     ],
     ahorro_anual: 192,
@@ -1156,7 +1156,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 25 GB"],
@@ -1176,7 +1176,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 25 GB"],
@@ -1196,12 +1196,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 50 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Pierde 3 GB Roaming",
     ],
     ahorro_anual: 240,
@@ -1220,7 +1220,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde 25 GB", "Gana RRSS Ilimitadas"],
@@ -1240,12 +1240,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 60 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
     ],
     ahorro_anual: 312,
     permite_downselling: true,
@@ -1263,12 +1263,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 60 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
     ],
     ahorro_anual: 312,
     permite_downselling: true,
@@ -1286,12 +1286,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Gana 9 GB",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Pierde Ilimitado",
     ],
     ahorro_anual: 312,
@@ -1310,12 +1310,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Gana 9 GB",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Pierde Ilimitado",
     ],
     ahorro_anual: 312,
@@ -1334,12 +1334,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Gana 9 GB",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Pierde Ilimitado",
     ],
     ahorro_anual: 312,
@@ -1358,12 +1358,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Gana 7 GB",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
     ],
     ahorro_anual: 312,
     permite_downselling: true,
@@ -1381,12 +1381,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 95 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Pierde 3.5 GB Roaming",
     ],
     ahorro_anual: 420,
@@ -1405,12 +1405,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 75 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Soundcloud (ilimitado)' src='images/soundcloud_icon.svg' alt='Soundcloud' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
     ],
     ahorro_anual: 420,
     permite_downselling: true,
@@ -1428,12 +1428,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 75 GB en AV",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Pierde Ilimitado",
     ],
     ahorro_anual: 420,
@@ -1452,12 +1452,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 75 GB en AV",
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
     ],
     ahorro_anual: 420,
     permite_downselling: true,
@@ -1475,11 +1475,11 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
-      "Gana <img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Gana Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
     ],
     ahorro_anual: 539,
     permite_downselling: true,
@@ -1497,12 +1497,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 85 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Soundcloud (ilimitado)' src='images/soundcloud_icon.svg' alt='Soundcloud' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
     ],
     ahorro_anual: 540,
     permite_downselling: true,
@@ -1520,12 +1520,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Gana 16 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Soundcloud (ilimitado)' src='images/soundcloud_icon.svg' alt='Soundcloud' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
     ],
     ahorro_anual: 540,
     permite_downselling: true,
@@ -1543,7 +1543,7 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: ["Pierde Ilimitado sin Fair Use en AV", "Pierde roaming"],
@@ -1563,12 +1563,12 @@ export const lista_opcion = [
     plan_nombre: "ENTEL CHIP+ 39.90",
     lista_beneficios: [
       "25 GB en AV",
-      "<img data-bs-toggle='tooltip' data-bs-title='Whatsapp (ilimitado)' src='images/whatsapp-icon.svg' alt='Whatsapp' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Waze (ilimitado)' src='images/waze-icon.svg' alt='Waze' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Facebook (fotos)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (fotos)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
       "Roaming: no tiene",
     ],
     lista_resumen: [
       "Pierde 90 GB",
-      "Pierde <img data-bs-toggle='tooltip' data-bs-title='Soundcloud (ilimitado)' src='images/soundcloud_icon.svg' alt='Soundcloud' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Spotify (ilimitado)' src='images/spotify-icon.svg' alt='Spotify' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Apple music (ilimitado)' src='images/apple-music-icon.svg' alt='Apple music' class='icon mx-1' /><img data-bs-toggle='tooltip' data-bs-title='Facebook (full)' src='images/facebook-icon.svg' alt='Facebook' class='icon mx-1' /> <img data-bs-toggle='tooltip' data-bs-title='Instagram (full)' src='images/instagram-icon.svg' alt='Instagram' class='icon mx-1' />",
+      "Pierde Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
     ],
     ahorro_anual: 600,
     permite_downselling: true,
