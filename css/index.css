@@ -73,3 +73,13 @@ header {
     width: 20px;
     height: 20px;
 }
+
+.hero__subtitle {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 800;
+    letter-spacing: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
