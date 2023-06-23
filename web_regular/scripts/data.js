@@ -647,7 +647,7 @@ export const lista_opcion = [
   {
     origen_id: 6,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -667,7 +667,7 @@ export const lista_opcion = [
   {
     origen_id: 7,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -687,7 +687,7 @@ export const lista_opcion = [
   {
     origen_id: 8,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -707,7 +707,7 @@ export const lista_opcion = [
   {
     origen_id: 9,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -727,7 +727,7 @@ export const lista_opcion = [
   {
     origen_id: 10,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -747,7 +747,7 @@ export const lista_opcion = [
   {
     origen_id: 11,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -767,7 +767,7 @@ export const lista_opcion = [
   {
     origen_id: 12,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -787,7 +787,7 @@ export const lista_opcion = [
   {
     origen_id: 13,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -807,7 +807,7 @@ export const lista_opcion = [
   {
     origen_id: 14,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
     lista_beneficios: [
       "10 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -827,7 +827,7 @@ export const lista_opcion = [
   {
     origen_id: 15,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     lista_beneficios: [
       "14 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -840,14 +840,14 @@ export const lista_opcion = [
   {
     origen_id: 15,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip 25.90</font>",
     ahorro_anual: 120,
     permite_downselling: true,
   },
   {
     origen_id: 16,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     lista_beneficios: [
       "14 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -860,14 +860,14 @@ export const lista_opcion = [
   {
     origen_id: 16,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip 25.90</font>",
     ahorro_anual: 144,
     permite_downselling: true,
   },
   {
     origen_id: 17,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     lista_beneficios: [
       "14 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -880,14 +880,14 @@ export const lista_opcion = [
   {
     origen_id: 17,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip 25.90</font>",
     ahorro_anual: 144,
     permite_downselling: true,
   },
   {
     origen_id: 18,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     lista_beneficios: [
       "14 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -903,14 +903,14 @@ export const lista_opcion = [
   {
     origen_id: 18,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP 27.90",
+    plan_nombre: "ENTEL CHIP 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip 25.90</font>",
     ahorro_anual: 168,
     permite_downselling: true,
   },
   {
     origen_id: 19,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -923,14 +923,14 @@ export const lista_opcion = [
   {
     origen_id: 19,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 127,
     permite_downselling: true,
   },
   {
     origen_id: 20,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -943,14 +943,14 @@ export const lista_opcion = [
   {
     origen_id: 20,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 127,
     permite_downselling: true,
   },
   {
     origen_id: 21,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -963,14 +963,14 @@ export const lista_opcion = [
   {
     origen_id: 21,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 127,
     permite_downselling: true,
   },
   {
     origen_id: 22,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -983,14 +983,14 @@ export const lista_opcion = [
   {
     origen_id: 22,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 156,
     permite_downselling: true,
   },
   {
     origen_id: 23,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1003,14 +1003,14 @@ export const lista_opcion = [
   {
     origen_id: 23,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 192,
     permite_downselling: true,
   },
   {
     origen_id: 24,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1023,14 +1023,14 @@ export const lista_opcion = [
   {
     origen_id: 24,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 204,
     permite_downselling: true,
   },
   {
     origen_id: 25,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1043,14 +1043,14 @@ export const lista_opcion = [
   {
     origen_id: 25,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 204,
     permite_downselling: true,
   },
   {
     origen_id: 26,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1063,14 +1063,14 @@ export const lista_opcion = [
   {
     origen_id: 26,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 204,
     permite_downselling: true,
   },
   {
     origen_id: 27,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1083,14 +1083,14 @@ export const lista_opcion = [
   {
     origen_id: 27,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 204,
     permite_downselling: true,
   },
   {
     origen_id: 28,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1107,14 +1107,14 @@ export const lista_opcion = [
   {
     origen_id: 28,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 204,
     permite_downselling: true,
   },
   {
     origen_id: 29,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1127,14 +1127,14 @@ export const lista_opcion = [
   {
     origen_id: 29,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 204,
     permite_downselling: true,
   },
   {
     origen_id: 30,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1151,14 +1151,14 @@ export const lista_opcion = [
   {
     origen_id: 30,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 276,
     permite_downselling: true,
   },
   {
     origen_id: 31,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1171,14 +1171,14 @@ export const lista_opcion = [
   {
     origen_id: 31,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 276,
     permite_downselling: true,
   },
   {
     origen_id: 32,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1191,14 +1191,14 @@ export const lista_opcion = [
   {
     origen_id: 32,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 276,
     permite_downselling: true,
   },
   {
     origen_id: 33,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1215,14 +1215,14 @@ export const lista_opcion = [
   {
     origen_id: 33,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 324,
     permite_downselling: true,
   },
   {
     origen_id: 34,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1235,14 +1235,14 @@ export const lista_opcion = [
   {
     origen_id: 34,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 324,
     permite_downselling: true,
   },
   {
     origen_id: 35,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1258,14 +1258,14 @@ export const lista_opcion = [
   {
     origen_id: 35,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 396,
     permite_downselling: true,
   },
   {
     origen_id: 36,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1281,14 +1281,14 @@ export const lista_opcion = [
   {
     origen_id: 36,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 396,
     permite_downselling: true,
   },
   {
     origen_id: 37,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1305,14 +1305,14 @@ export const lista_opcion = [
   {
     origen_id: 37,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 396,
     permite_downselling: true,
   },
   {
     origen_id: 38,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1329,14 +1329,14 @@ export const lista_opcion = [
   {
     origen_id: 38,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 396,
     permite_downselling: true,
   },
   {
     origen_id: 39,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1353,14 +1353,14 @@ export const lista_opcion = [
   {
     origen_id: 39,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 396,
     permite_downselling: true,
   },
   {
     origen_id: 40,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1376,14 +1376,14 @@ export const lista_opcion = [
   {
     origen_id: 40,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 396,
     permite_downselling: true,
   },
   {
     origen_id: 41,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1399,14 +1399,14 @@ export const lista_opcion = [
   {
     origen_id: 41,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 444,
     permite_downselling: true,
   },
   {
     origen_id: 42,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1423,14 +1423,14 @@ export const lista_opcion = [
   {
     origen_id: 42,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 504,
     permite_downselling: true,
   },
   {
     origen_id: 43,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1446,14 +1446,14 @@ export const lista_opcion = [
   {
     origen_id: 43,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 504,
     permite_downselling: true,
   },
   {
     origen_id: 44,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1469,14 +1469,14 @@ export const lista_opcion = [
   {
     origen_id: 44,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 504,
     permite_downselling: true,
   },
   {
     origen_id: 45,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1492,14 +1492,14 @@ export const lista_opcion = [
   {
     origen_id: 45,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 504,
     permite_downselling: true,
   },
   {
     origen_id: 46,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1514,14 +1514,14 @@ export const lista_opcion = [
   {
     origen_id: 46,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 623,
     permite_downselling: true,
   },
   {
     origen_id: 47,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1537,14 +1537,14 @@ export const lista_opcion = [
   {
     origen_id: 47,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 624,
     permite_downselling: true,
   },
   {
     origen_id: 48,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1560,14 +1560,14 @@ export const lista_opcion = [
   {
     origen_id: 48,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 624,
     permite_downselling: true,
   },
   {
     origen_id: 49,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1580,14 +1580,14 @@ export const lista_opcion = [
   {
     origen_id: 49,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 684,
     permite_downselling: true,
   },
   {
     origen_id: 50,
     opcion_id: 1,
-    plan_nombre: "ENTEL CHIP+ 42.90",
+    plan_nombre: "ENTEL CHIP+ 42.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 39.90</font>",
     lista_beneficios: [
       "34 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1603,14 +1603,14 @@ export const lista_opcion = [
   {
     origen_id: 50,
     opcion_id: 2,
-    plan_nombre: "ENTEL CHIP+ 32.90",
+    plan_nombre: "ENTEL CHIP+ 32.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel chip+ 29.90</font>",
     ahorro_anual: 684,
     permite_downselling: true,
   },
   {
     origen_id: 51,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     lista_beneficios: ["130 GB en AV", "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana 114 GB", "Gana 2.5 GB Roaming"],
     ahorro_anual: 179,
@@ -1626,7 +1626,7 @@ export const lista_opcion = [
   {
     origen_id: 52,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     lista_beneficios: ["130 GB en AV", "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana 5 GB", "Pierde 0.5 GB Roaming"],
     ahorro_anual: 180,
@@ -1642,7 +1642,7 @@ export const lista_opcion = [
   {
     origen_id: 53,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     lista_beneficios: ["130 GB en AV", "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana 5 GB", "Pierde Ilimitado"],
     ahorro_anual: 180,
@@ -1658,7 +1658,7 @@ export const lista_opcion = [
   {
     origen_id: 54,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     lista_beneficios: ["130 GB en AV", "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana 5 GB", "Pierde Ilimitado"],
     ahorro_anual: 180,
@@ -1674,7 +1674,7 @@ export const lista_opcion = [
   {
     origen_id: 55,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Pierde 1.5 GB Roaming"],
     ahorro_anual: 60,
@@ -1683,14 +1683,14 @@ export const lista_opcion = [
   {
     origen_id: 55,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 240,
     permite_downselling: true,
   },
   {
     origen_id: 56,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 2.5 GB Roaming"],
     ahorro_anual: 119,
@@ -1699,14 +1699,14 @@ export const lista_opcion = [
   {
     origen_id: 56,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 299,
     permite_downselling: true,
   },
   {
     origen_id: 57,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 0.5 GB Roaming"],
     ahorro_anual: 180,
@@ -1715,14 +1715,14 @@ export const lista_opcion = [
   {
     origen_id: 57,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 360,
     permite_downselling: true,
   },
   {
     origen_id: 58,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 2 GB Roaming"],
     ahorro_anual: 180,
@@ -1731,14 +1731,14 @@ export const lista_opcion = [
   {
     origen_id: 58,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 360,
     permite_downselling: true,
   },
   {
     origen_id: 59,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 0.5 GB Roaming"],
     ahorro_anual: 180,
@@ -1747,14 +1747,14 @@ export const lista_opcion = [
   {
     origen_id: 59,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 360,
     permite_downselling: true,
   },
   {
     origen_id: 60,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 0.5 GB Roaming"],
     ahorro_anual: 239,
@@ -1763,14 +1763,14 @@ export const lista_opcion = [
   {
     origen_id: 60,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 419,
     permite_downselling: true,
   },
   {
     origen_id: 61,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 2.5 GB Roaming"],
     ahorro_anual: 300,
@@ -1779,14 +1779,14 @@ export const lista_opcion = [
   {
     origen_id: 61,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 480,
     permite_downselling: true,
   },
   {
     origen_id: 62,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 1.5 GB Roaming"],
     ahorro_anual: 420,
@@ -1795,14 +1795,14 @@ export const lista_opcion = [
   {
     origen_id: 62,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 600,
     permite_downselling: true,
   },
   {
     origen_id: 63,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 4.5 GB Roaming"],
     ahorro_anual: 420,
@@ -1811,14 +1811,14 @@ export const lista_opcion = [
   {
     origen_id: 63,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 600,
     permite_downselling: true,
   },
   {
     origen_id: 64,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 4.5 GB Roaming"],
     ahorro_anual: 420,
@@ -1827,14 +1827,14 @@ export const lista_opcion = [
   {
     origen_id: 64,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 600,
     permite_downselling: true,
   },
   {
     origen_id: 65,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 0.5 GB Roaming"],
     ahorro_anual: 612,
@@ -1843,14 +1843,14 @@ export const lista_opcion = [
   {
     origen_id: 65,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 792,
     permite_downselling: true,
   },
   {
     origen_id: 66,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 2.5 GB Roaming"],
     ahorro_anual: 660,
@@ -1859,14 +1859,14 @@ export const lista_opcion = [
   {
     origen_id: 66,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 840,
     permite_downselling: true,
   },
   {
     origen_id: 67,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 2.5 GB Roaming"],
     ahorro_anual: 660,
@@ -1875,14 +1875,14 @@ export const lista_opcion = [
   {
     origen_id: 67,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 840,
     permite_downselling: true,
   },
   {
     origen_id: 68,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 0.5 GB Roaming"],
     ahorro_anual: 732,
@@ -1891,14 +1891,14 @@ export const lista_opcion = [
   {
     origen_id: 68,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 912,
     permite_downselling: true,
   },
   {
     origen_id: 69,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Gana 3.5 GB Roaming"],
     ahorro_anual: 738,
@@ -1907,14 +1907,14 @@ export const lista_opcion = [
   {
     origen_id: 69,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 918,
     permite_downselling: true,
   },
   {
     origen_id: 70,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 8.5 GB Roaming"],
     ahorro_anual: 780,
@@ -1923,14 +1923,14 @@ export const lista_opcion = [
   {
     origen_id: 70,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 960,
     permite_downselling: true,
   },
   {
     origen_id: 71,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 3.5 GB Roaming"],
     ahorro_anual: 780,
@@ -1939,14 +1939,14 @@ export const lista_opcion = [
   {
     origen_id: 71,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 960,
     permite_downselling: true,
   },
   {
     origen_id: 72,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 12.5 GB Roaming"],
     ahorro_anual: 1260,
@@ -1955,14 +1955,14 @@ export const lista_opcion = [
   {
     origen_id: 72,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 1440,
     permite_downselling: true,
   },
   {
     origen_id: 73,
     opcion_id: 1,
-    plan_nombre: "ENTEL POWER 94.90 SD",
+    plan_nombre: "ENTEL POWER 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel power 89.90 SD</font>",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
     lista_resumen: ["Gana Ilimitado en AV", "Pierde 12.5 GB Roaming"],
     ahorro_anual: 1260,
@@ -1971,7 +1971,7 @@ export const lista_opcion = [
   {
     origen_id: 73,
     opcion_id: 2,
-    plan_nombre: "ENTEL POWER+ 79.90",
+    plan_nombre: "ENTEL POWER+ 79.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power+ 74.90</font>",
     ahorro_anual: 1440,
     permite_downselling: true,
   },

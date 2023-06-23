@@ -94,7 +94,7 @@ const DOM_EVENTOS = {
                         <div class="card opcion">
                             <div class="card-body">
                                 <h1 class="card-subtitle">${e.opcion_id === 1 ? "Opción 1" : "Opción 2"} - ${e.opcion_nombre}</h1>
-
+                                
                                 <div class="card border-primary mb-2">
                                     <div class="card-body">
                                         <h3 class="card-subtitle-2 text-primary">Beneficios</h3>
