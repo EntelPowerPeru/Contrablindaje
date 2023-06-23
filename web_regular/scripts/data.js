@@ -1619,7 +1619,7 @@ export const lista_opcion = [
   {
     origen_id: 51,
     opcion_id: 2,
-    plan_nombre: "Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     ahorro_anual: 335,
     permite_downselling: true,
   },
@@ -1635,7 +1635,7 @@ export const lista_opcion = [
   {
     origen_id: 52,
     opcion_id: 2,
-    plan_nombre: "Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     ahorro_anual: 336,
     permite_downselling: true,
   },
@@ -1651,7 +1651,7 @@ export const lista_opcion = [
   {
     origen_id: 53,
     opcion_id: 2,
-    plan_nombre: "Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     ahorro_anual: 336,
     permite_downselling: true,
   },
@@ -1667,7 +1667,7 @@ export const lista_opcion = [
   {
     origen_id: 54,
     opcion_id: 2,
-    plan_nombre: "Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     ahorro_anual: 336,
     permite_downselling: true,
   },
