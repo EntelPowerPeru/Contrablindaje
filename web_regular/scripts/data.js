@@ -747,7 +747,7 @@ export const lista_opcion = [
   {
     "origen_id": 6,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -756,7 +756,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 2 GB"
     ],
-    "ahorro_anual": 24,
+    "ahorro_anual": 48,
     "permite_downselling": true
   },
   {
@@ -769,7 +769,7 @@ export const lista_opcion = [
   {
     "origen_id": 7,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -778,7 +778,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 2 GB"
     ],
-    "ahorro_anual": 24,
+    "ahorro_anual": 48,
     "permite_downselling": true
   },
   {
@@ -791,7 +791,7 @@ export const lista_opcion = [
   {
     "origen_id": 8,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -800,7 +800,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 2 GB"
     ],
-    "ahorro_anual": 24,
+    "ahorro_anual": 48,
     "permite_downselling": true
   },
   {
@@ -813,7 +813,7 @@ export const lista_opcion = [
   {
     "origen_id": 9,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -822,7 +822,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 2 GB"
     ],
-    "ahorro_anual": 24,
+    "ahorro_anual": 48,
     "permite_downselling": true
   },
   {
@@ -835,7 +835,7 @@ export const lista_opcion = [
   {
     "origen_id": 10,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -844,7 +844,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 3 GB"
     ],
-    "ahorro_anual": 42,
+    "ahorro_anual": 66,
     "permite_downselling": true
   },
   {
@@ -857,7 +857,7 @@ export const lista_opcion = [
   {
     "origen_id": 11,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -866,7 +866,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 3 GB"
     ],
-    "ahorro_anual": 42,
+    "ahorro_anual": 66,
     "permite_downselling": true
   },
   {
@@ -879,7 +879,7 @@ export const lista_opcion = [
   {
     "origen_id": 12,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -888,7 +888,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 3 GB"
     ],
-    "ahorro_anual": 42,
+    "ahorro_anual": 66,
     "permite_downselling": true
   },
   {
@@ -901,7 +901,7 @@ export const lista_opcion = [
   {
     "origen_id": 13,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -910,7 +910,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 3 GB"
     ],
-    "ahorro_anual": 42,
+    "ahorro_anual": 66,
     "permite_downselling": true
   },
   {
@@ -923,7 +923,7 @@ export const lista_opcion = [
   {
     "origen_id": 14,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -932,7 +932,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 7 GB"
     ],
-    "ahorro_anual": 96,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -945,7 +945,7 @@ export const lista_opcion = [
   {
     "origen_id": 15,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
+    "plan_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
       "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -954,7 +954,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 7 GB"
     ],
-    "ahorro_anual": 60,
+    "ahorro_anual": 84,
     "permite_downselling": true
   },
   {
@@ -982,8 +982,8 @@ export const lista_opcion = [
   {
     "origen_id": 16,
     "opcion_id": 2,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
-    "ahorro_anual": 120,
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 144,
     "permite_downselling": true
   },
   {
@@ -1004,8 +1004,8 @@ export const lista_opcion = [
   {
     "origen_id": 17,
     "opcion_id": 2,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
-    "ahorro_anual": 144,
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 168,
     "permite_downselling": true
   },
   {
@@ -1026,8 +1026,8 @@ export const lista_opcion = [
   {
     "origen_id": 18,
     "opcion_id": 2,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
-    "ahorro_anual": 144,
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 168,
     "permite_downselling": true
   },
   {
@@ -1048,8 +1048,8 @@ export const lista_opcion = [
   {
     "origen_id": 19,
     "opcion_id": 2,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
-    "ahorro_anual": 144,
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 168,
     "permite_downselling": true
   },
   {
@@ -1071,8 +1071,8 @@ export const lista_opcion = [
   {
     "origen_id": 20,
     "opcion_id": 2,
-    "plan_nombre": "Entel Chip 27.90<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Chip 25.90</font>",
-    "ahorro_anual": 168,
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 192,
     "permite_downselling": true
   },
   {
@@ -1838,17 +1838,16 @@ export const lista_opcion = [
   {
     "origen_id": 54,
     "opcion_id": 1,
-    "plan_nombre": "Entel power+ 74.90 R",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
-      "120 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "Ilimitado en AV",
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Gana 104 GB",
-      "Gana 2.5 GB Roaming"
+      "Gana ilimitado en AV",
+      "Gana 2.5GB Roaming"
     ],
-    "ahorro_anual": 300,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -1861,17 +1860,16 @@ export const lista_opcion = [
   {
     "origen_id": 55,
     "opcion_id": 1,
-    "plan_nombre": "Entel power+ 74.90 R",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
-      "120 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "Ilimitado en AV",
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Pierde 5 GB",
+      "Gana ilimitado en AV",
       "Pierde 0.5 GB Roaming"
     ],
-    "ahorro_anual": 300,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -1884,17 +1882,16 @@ export const lista_opcion = [
   {
     "origen_id": 56,
     "opcion_id": 1,
-    "plan_nombre": "Entel power+ 74.90 R",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
-      "120 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "Ilimitado en AV",
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Pierde 5 GB",
-      "Pierde Ilimitado"
+      "Gana ilimitado en AV",
+      "Pierde 0.5 GB Roaming"
     ],
-    "ahorro_anual": 300,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -1907,17 +1904,16 @@ export const lista_opcion = [
   {
     "origen_id": 57,
     "opcion_id": 1,
-    "plan_nombre": "Entel power+ 74.90 R",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
-      "120 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "Ilimitado en AV",
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Pierde 5 GB",
-      "Pierde Ilimitado"
+      "Gana ilimitado en AV",
+      "Pierde 0.5 GB Roaming"
     ],
-    "ahorro_anual": 300,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -1930,7 +1926,7 @@ export const lista_opcion = [
   {
     "origen_id": 58,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -1938,7 +1934,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 1.5GB roaming"
     ],
-    "ahorro_anual": 60,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -1951,7 +1947,7 @@ export const lista_opcion = [
   {
     "origen_id": 59,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -1960,7 +1956,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 2.5GB Roaming"
     ],
-    "ahorro_anual": 180,
+    "ahorro_anual": 240,
     "permite_downselling": true
   },
   {
@@ -1973,7 +1969,7 @@ export const lista_opcion = [
   {
     "origen_id": 60,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -1982,7 +1978,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 0.5GB Roaming"
     ],
-    "ahorro_anual": 252,
+    "ahorro_anual": 312,
     "permite_downselling": true
   },
   {
@@ -1995,7 +1991,7 @@ export const lista_opcion = [
   {
     "origen_id": 61,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2004,7 +2000,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 2GB Roaming"
     ],
-    "ahorro_anual": 180,
+    "ahorro_anual": 240,
     "permite_downselling": true
   },
   {
@@ -2017,7 +2013,7 @@ export const lista_opcion = [
   {
     "origen_id": 62,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2026,7 +2022,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 0.5GB Roaming"
     ],
-    "ahorro_anual": 180,
+    "ahorro_anual": 240,
     "permite_downselling": true
   },
   {
@@ -2039,7 +2035,7 @@ export const lista_opcion = [
   {
     "origen_id": 63,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2048,7 +2044,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 0.5GB Roaming"
     ],
-    "ahorro_anual": 310,
+    "ahorro_anual": 370,
     "permite_downselling": true
   },
   {
@@ -2061,7 +2057,7 @@ export const lista_opcion = [
   {
     "origen_id": 64,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2070,7 +2066,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 2.5GB Roaming"
     ],
-    "ahorro_anual": 384,
+    "ahorro_anual": 444,
     "permite_downselling": true
   },
   {
@@ -2083,7 +2079,7 @@ export const lista_opcion = [
   {
     "origen_id": 65,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2092,7 +2088,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 1.5GB Roaming"
     ],
-    "ahorro_anual": 420,
+    "ahorro_anual": 480,
     "permite_downselling": true
   },
   {
@@ -2105,7 +2101,7 @@ export const lista_opcion = [
   {
     "origen_id": 66,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2114,7 +2110,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 4.5GB Roaming"
     ],
-    "ahorro_anual": 420,
+    "ahorro_anual": 480,
     "permite_downselling": true
   },
   {
@@ -2127,7 +2123,7 @@ export const lista_opcion = [
   {
     "origen_id": 67,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2136,7 +2132,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 4.5GB Roaming"
     ],
-    "ahorro_anual": 420,
+    "ahorro_anual": 480,
     "permite_downselling": true
   },
   {
@@ -2149,7 +2145,7 @@ export const lista_opcion = [
   {
     "origen_id": 68,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2158,7 +2154,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 0.5GB Roaming"
     ],
-    "ahorro_anual": 612,
+    "ahorro_anual": 672,
     "permite_downselling": true
   },
   {
@@ -2171,7 +2167,7 @@ export const lista_opcion = [
   {
     "origen_id": 69,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2180,7 +2176,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 2.5GB Roaming"
     ],
-    "ahorro_anual": 660,
+    "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
@@ -2193,7 +2189,7 @@ export const lista_opcion = [
   {
     "origen_id": 70,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2202,7 +2198,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 2.5GB Roaming"
     ],
-    "ahorro_anual": 660,
+    "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
@@ -2215,7 +2211,7 @@ export const lista_opcion = [
   {
     "origen_id": 71,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2224,7 +2220,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 0.5GB Roaming"
     ],
-    "ahorro_anual": 732,
+    "ahorro_anual": 792,
     "permite_downselling": true
   },
   {
@@ -2237,7 +2233,7 @@ export const lista_opcion = [
   {
     "origen_id": 72,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2246,7 +2242,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Gana 3.5GB Roaming"
     ],
-    "ahorro_anual": 738,
+    "ahorro_anual": 798,
     "permite_downselling": true
   },
   {
@@ -2259,7 +2255,7 @@ export const lista_opcion = [
   {
     "origen_id": 73,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2268,7 +2264,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 8.5GB Roaming"
     ],
-    "ahorro_anual": 780,
+    "ahorro_anual": 840,
     "permite_downselling": true
   },
   {
@@ -2281,7 +2277,7 @@ export const lista_opcion = [
   {
     "origen_id": 74,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2290,7 +2286,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 3.5GB Roaming"
     ],
-    "ahorro_anual": 780,
+    "ahorro_anual": 840,
     "permite_downselling": true
   },
   {
@@ -2303,7 +2299,7 @@ export const lista_opcion = [
   {
     "origen_id": 75,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2312,7 +2308,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 12.5GB Roaming"
     ],
-    "ahorro_anual": 1260,
+    "ahorro_anual": 1320,
     "permite_downselling": true
   },
   {
@@ -2325,7 +2321,7 @@ export const lista_opcion = [
   {
     "origen_id": 76,
     "opcion_id": 1,
-    "plan_nombre": "Entel Power 94.90 SD<br><br><font color='red' size='3'>*Importante: El plan se visualizará en OC como Entel Power 89.90 SD</font>",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB"
@@ -2334,7 +2330,7 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 12.5GB Roaming"
     ],
-    "ahorro_anual": 1260,
+    "ahorro_anual": 1320,
     "permite_downselling": true
   },
   {
