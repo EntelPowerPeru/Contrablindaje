@@ -65,7 +65,7 @@ export const lista_origen = [
   },
   {
     "origen_id": 8,
-    "origen_nombre": "Entel chip+ 29.90",
+    "origen_nombre": "Entel chip+ 32.90",
     "lista_beneficios": [
       "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -74,7 +74,7 @@ export const lista_origen = [
   },
   {
     "origen_id": 9,
-    "origen_nombre": "Entel chip+ 29.90",
+    "origen_nombre": "Entel chip+ 29.90 R",
     "lista_beneficios": [
       "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -128,7 +128,7 @@ export const lista_origen = [
   },
   {
     "origen_id": 15,
-    "origen_nombre": "Entel Chip 32.90",
+    "origen_nombre": "Entel Chip 35.90",
     "lista_beneficios": [
       "15 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -137,7 +137,7 @@ export const lista_origen = [
   },
   {
     "origen_id": 16,
-    "origen_nombre": "Entel Chip 37.90 Plus",
+    "origen_nombre": "Entel Chip 39.90 Plus",
     "lista_beneficios": [
       "20 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -155,7 +155,7 @@ export const lista_origen = [
   },
   {
     "origen_id": 18,
-    "origen_nombre": "Entel chip+ 39.90",
+    "origen_nombre": "Entel chip+ 42.90",
     "lista_beneficios": [
       "25 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -208,7 +208,7 @@ export const lista_origen = [
   },
   {
     "origen_id": 24,
-    "origen_nombre": "Entel Chip 45.90 PLUS",
+    "origen_nombre": "Entel Chip 49.90 Plus",
     "lista_beneficios": [
       "30 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -235,7 +235,7 @@ export const lista_origen = [
   },
   {
     "origen_id": 27,
-    "origen_nombre": "Entel Chip 53.90 Plus B",
+    "origen_nombre": "Entel power+ 49.90 R",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -244,6 +244,15 @@ export const lista_origen = [
   },
   {
     "origen_id": 28,
+    "origen_nombre": "Entel Chip 53.90 Plus B",
+    "lista_beneficios": [
+      "35 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ]
+  },
+  {
+    "origen_id": 29,
     "origen_nombre": "Entel chip 49.90 plus A",
     "lista_beneficios": [
       "14 GB en AV",
@@ -252,7 +261,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 29,
+    "origen_id": 30,
     "origen_nombre": "Entel Control 49.90 PLUS",
     "lista_beneficios": [
       "14 GB en AV",
@@ -261,7 +270,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 30,
+    "origen_id": 31,
     "origen_nombre": "Entel Chip 53.90 Plus",
     "lista_beneficios": [
       "35 GB en AV",
@@ -270,8 +279,8 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 31,
-    "origen_nombre": "Entel power+ 55.90",
+    "origen_id": 32,
+    "origen_nombre": "Entel power+ 59.90",
     "lista_beneficios": [
       "50 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -279,7 +288,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 32,
+    "origen_id": 33,
     "origen_nombre": "Entel Chip 59.90 Plus",
     "lista_beneficios": [
       "50 GB en AV",
@@ -288,7 +297,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 33,
+    "origen_id": 34,
     "origen_nombre": "Entel Chip 59.90 Plus B",
     "lista_beneficios": [
       "50 GB en AV",
@@ -297,17 +306,8 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 34,
-    "origen_nombre": "Entel power+ 59.90",
-    "lista_beneficios": [
-      "75 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
-      "Roaming: 3 GB"
-    ]
-  },
-  {
     "origen_id": 35,
-    "origen_nombre": "Entel power+ 59.90",
+    "origen_nombre": "Entel power+ 63.90",
     "lista_beneficios": [
       "75 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -316,6 +316,15 @@ export const lista_origen = [
   },
   {
     "origen_id": 36,
+    "origen_nombre": "Entel power+ 59.90 R",
+    "lista_beneficios": [
+      "75 GB en AV",
+      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "Roaming: 3 GB"
+    ]
+  },
+  {
+    "origen_id": 37,
     "origen_nombre": "Entel Power 59.90",
     "lista_beneficios": [
       "Ilimitado con 50 GB en AV",
@@ -323,7 +332,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 37,
+    "origen_id": 38,
     "origen_nombre": "Entel Chip 69.90 Plus B",
     "lista_beneficios": [
       "85 GB en AV",
@@ -332,8 +341,8 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 38,
-    "origen_nombre": "Entel Chip 65.90 PLUS",
+    "origen_id": 39,
+    "origen_nombre": "Entel Chip 69.90 Plus",
     "lista_beneficios": [
       "85 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -341,7 +350,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 39,
+    "origen_id": 40,
     "origen_nombre": "Entel Power 69.90 P",
     "lista_beneficios": [
       "Ilimitado con 16 GB en AV",
@@ -349,7 +358,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 40,
+    "origen_id": 41,
     "origen_nombre": "Entel Power 65.90 A",
     "lista_beneficios": [
       "Ilimitado con 16 GB en AV",
@@ -357,7 +366,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 41,
+    "origen_id": 42,
     "origen_nombre": "Entel Power 65.90 H",
     "lista_beneficios": [
       "Ilimitado con 16 GB en AV",
@@ -365,7 +374,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 42,
+    "origen_id": 43,
     "origen_nombre": "Negocio Chip R 65.90",
     "lista_beneficios": [
       "18 GB en AV",
@@ -373,7 +382,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 43,
+    "origen_id": 44,
     "origen_nombre": "Entel Power 74.90 A",
     "lista_beneficios": [
       "Ilimitado con 26 GB en AV",
@@ -381,17 +390,8 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 44,
-    "origen_nombre": "Entel power+ 74.90",
-    "lista_beneficios": [
-      "120 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
-      "Roaming: 3.5 GB"
-    ]
-  },
-  {
     "origen_id": 45,
-    "origen_nombre": "Entel power+ 74.90 R",
+    "origen_nombre": "Entel power+ 79.90",
     "lista_beneficios": [
       "120 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -400,6 +400,15 @@ export const lista_origen = [
   },
   {
     "origen_id": 46,
+    "origen_nombre": "Entel power+ 74.90 R",
+    "lista_beneficios": [
+      "120 GB en AV",
+      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "Roaming: 3.5 GB"
+    ]
+  },
+  {
+    "origen_id": 47,
     "origen_nombre": "Entel Chip 79.90 Plus",
     "lista_beneficios": [
       "100 GB en AV",
@@ -408,7 +417,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 47,
+    "origen_id": 48,
     "origen_nombre": "Entel Power 79.90 B",
     "lista_beneficios": [
       "Ilimitado con 100 GB en AV",
@@ -416,7 +425,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 48,
+    "origen_id": 49,
     "origen_nombre": "Entel Power 79.90",
     "lista_beneficios": [
       "100 GB en AV",
@@ -424,7 +433,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 49,
+    "origen_id": 50,
     "origen_nombre": "Negocio Chip R 84.80",
     "lista_beneficios": [
       "25 GB en AV",
@@ -432,8 +441,8 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 50,
-    "origen_nombre": "Entel Chip 84.90",
+    "origen_id": 51,
+    "origen_nombre": "Entel Chip 89.90",
     "lista_beneficios": [
       "110 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
@@ -441,7 +450,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 51,
+    "origen_id": 52,
     "origen_nombre": "Entel Control 89.90",
     "lista_beneficios": [
       "9 GB en AV",
@@ -450,7 +459,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 52,
+    "origen_id": 53,
     "origen_nombre": "Entel power 89.90 SD",
     "lista_beneficios": [
       "Ilimitado en AV",
@@ -458,7 +467,15 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 53,
+    "origen_id": 54,
+    "origen_nombre": "Entel power 89.90 SD R",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ]
+  },
+  {
+    "origen_id": 55,
     "origen_nombre": "Entel Chip 94.90",
     "lista_beneficios": [
       "115 GB en AV",
@@ -467,7 +484,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 54,
+    "origen_id": 56,
     "origen_nombre": "Entel Chip 99.90 Plus",
     "lista_beneficios": [
       "16 GB en AV",
@@ -476,7 +493,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 55,
+    "origen_id": 57,
     "origen_nombre": "Entel Chip 99.90",
     "lista_beneficios": [
       "125 GB en AV",
@@ -485,7 +502,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 56,
+    "origen_id": 58,
     "origen_nombre": "Entel Power 99.90",
     "lista_beneficios": [
       "Ilimitado con 125 GB en AV",
@@ -493,7 +510,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 57,
+    "origen_id": 59,
     "origen_nombre": "Entel Power 99.90 B",
     "lista_beneficios": [
       "Ilimitado con 125 GB en AV",
@@ -501,15 +518,15 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 58,
-    "origen_nombre": "Entel power 99.90 SD",
+    "origen_id": 60,
+    "origen_nombre": "Entel power 104.90 SD",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 5 GB"
     ]
   },
   {
-    "origen_id": 59,
+    "origen_id": 61,
     "origen_nombre": "Entel Chip 109.90 Plus",
     "lista_beneficios": [
       "17 GB en AV",
@@ -518,7 +535,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 60,
+    "origen_id": 62,
     "origen_nombre": "Entel Chip 115.90 Plus",
     "lista_beneficios": [
       "18 GB en AV",
@@ -527,15 +544,15 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 61,
-    "origen_nombre": "Entel Power 109.90",
+    "origen_id": 63,
+    "origen_nombre": "Entel Power 115.90",
     "lista_beneficios": [
       "Ilimitado 140 GB en AV",
       "Roaming: 5.5 GB"
     ]
   },
   {
-    "origen_id": 62,
+    "origen_id": 64,
     "origen_nombre": "Negocio Chip R 109.90",
     "lista_beneficios": [
       "31 GB en AV",
@@ -543,7 +560,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 63,
+    "origen_id": 65,
     "origen_nombre": "Entel Chip 120.80",
     "lista_beneficios": [
       "20 GB en AV",
@@ -552,7 +569,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 64,
+    "origen_id": 66,
     "origen_nombre": "Entel Chip 126.90",
     "lista_beneficios": [
       "8 GB en AV",
@@ -561,7 +578,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 65,
+    "origen_id": 67,
     "origen_nombre": "Entel Chip 129.90 Plus",
     "lista_beneficios": [
       "25 GB en AV",
@@ -570,7 +587,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 66,
+    "origen_id": 68,
     "origen_nombre": "Entel Power 129.90",
     "lista_beneficios": [
       "Ilimitado con 150 GB en AV",
@@ -578,7 +595,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 67,
+    "origen_id": 69,
     "origen_nombre": "Entel Power 129.90 A",
     "lista_beneficios": [
       "Ilimitado con 150 GB en AV",
@@ -586,7 +603,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 68,
+    "origen_id": 70,
     "origen_nombre": "Entel Chip 145.90",
     "lista_beneficios": [
       "12 GB en AV",
@@ -595,7 +612,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 69,
+    "origen_id": 71,
     "origen_nombre": "Entel Control 149.90",
     "lista_beneficios": [
       "25 GB en AV",
@@ -604,7 +621,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 70,
+    "origen_id": 72,
     "origen_nombre": "Entel Libre 149.90",
     "lista_beneficios": [
       "25 GB en AV",
@@ -613,7 +630,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 71,
+    "origen_id": 73,
     "origen_nombre": "Entel Chip 155.90",
     "lista_beneficios": [
       "14 GB en AV",
@@ -622,7 +639,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 72,
+    "origen_id": 74,
     "origen_nombre": "Negocio Power R 156.40",
     "lista_beneficios": [
       "46 GB en AV",
@@ -630,7 +647,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 73,
+    "origen_id": 75,
     "origen_nombre": "Entel Chip 159.90 PLUS",
     "lista_beneficios": [
       "Ilimitado con 160 GB en AV",
@@ -638,7 +655,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 74,
+    "origen_id": 76,
     "origen_nombre": "Entel Power 159.90 5G",
     "lista_beneficios": [
       "Ilimitado con 45 GB en AV",
@@ -646,7 +663,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 75,
+    "origen_id": 77,
     "origen_nombre": "Entel Chip 199.90",
     "lista_beneficios": [
       "Ilimitado con 170 GB en AV",
@@ -654,7 +671,7 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 76,
+    "origen_id": 78,
     "origen_nombre": "Entel Chip 199.90 Libre",
     "lista_beneficios": [
       "Ilimitado con 170 GB en AV",
@@ -791,24 +808,24 @@ export const lista_opcion = [
   {
     "origen_id": 8,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 25.90 R",
+    "plan_nombre": "Entel chip+ 29.90 R",
     "lista_beneficios": [
-      "8 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 2 GB"
+      "No pierde GB"
     ],
-    "ahorro_anual": 48,
+    "ahorro_anual": 36,
     "permite_downselling": true
   },
   {
     "origen_id": 8,
     "opcion_id": 2,
-    "plan_nombre": "null",
-    "ahorro_anual": null,
-    "permite_downselling": false
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 84,
+    "permite_downselling": true
   },
   {
     "origen_id": 9,
@@ -835,134 +852,134 @@ export const lista_opcion = [
   {
     "origen_id": 10,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 25.90 R",
+    "plan_nombre": "Entel chip+ 29.90 R",
     "lista_beneficios": [
-      "8 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 1 GB"
     ],
-    "ahorro_anual": 66,
+    "ahorro_anual": 18,
     "permite_downselling": true
   },
   {
     "origen_id": 10,
     "opcion_id": 2,
-    "plan_nombre": "null",
-    "ahorro_anual": null,
-    "permite_downselling": false
-  },
-  {
-    "origen_id": 11,
-    "opcion_id": 1,
-    "plan_nombre": "Entel Chip 25.90 R",
-    "lista_beneficios": [
-      "8 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_resumen": [
-      "Pierde 3 GB"
-    ],
+    "plan_nombre": "Entel chip 25.90 R",
     "ahorro_anual": 66,
     "permite_downselling": true
   },
   {
     "origen_id": 11,
-    "opcion_id": 2,
-    "plan_nombre": "null",
-    "ahorro_anual": null,
-    "permite_downselling": false
-  },
-  {
-    "origen_id": 12,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 25.90 R",
+    "plan_nombre": "Entel chip+ 29.90 R",
     "lista_beneficios": [
-      "8 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 1 GB"
     ],
+    "ahorro_anual": 18,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 11,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip 25.90 R",
     "ahorro_anual": 66,
     "permite_downselling": true
   },
   {
     "origen_id": 12,
-    "opcion_id": 2,
-    "plan_nombre": "null",
-    "ahorro_anual": null,
-    "permite_downselling": false
-  },
-  {
-    "origen_id": 13,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 25.90 R",
+    "plan_nombre": "Entel chip+ 29.90 R",
     "lista_beneficios": [
-      "8 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 1 GB"
     ],
+    "ahorro_anual": 18,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 12,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip 25.90 R",
     "ahorro_anual": 66,
     "permite_downselling": true
   },
   {
     "origen_id": 13,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "lista_beneficios": [
+      "10 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 1 GB"
+    ],
+    "ahorro_anual": 18,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 13,
     "opcion_id": 2,
-    "plan_nombre": "null",
-    "ahorro_anual": null,
-    "permite_downselling": false
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 66,
+    "permite_downselling": true
   },
   {
     "origen_id": 14,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 25.90 R",
+    "plan_nombre": "Entel chip+ 29.90 R",
     "lista_beneficios": [
-      "8 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 7 GB"
+      "Pierde 5 GB"
     ],
+    "ahorro_anual": 72,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 14,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip 25.90 R",
     "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
-    "origen_id": 14,
-    "opcion_id": 2,
-    "plan_nombre": "null",
-    "ahorro_anual": null,
-    "permite_downselling": false
-  },
-  {
     "origen_id": 15,
     "opcion_id": 1,
-    "plan_nombre": "Entel Chip 25.90 R",
+    "plan_nombre": "Entel chip+ 29.90 R",
     "lista_beneficios": [
-      "8 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 7 GB"
+      "Pierde 5 GB"
     ],
-    "ahorro_anual": 84,
+    "ahorro_anual": 72,
     "permite_downselling": true
   },
   {
     "origen_id": 15,
     "opcion_id": 2,
-    "plan_nombre": "null",
-    "ahorro_anual": null,
-    "permite_downselling": false
+    "plan_nombre": "Entel chip 25.90 R",
+    "ahorro_anual": 120,
+    "permite_downselling": true
   },
   {
     "origen_id": 16,
@@ -976,14 +993,14 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 10 GB"
     ],
-    "ahorro_anual": 96,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
     "origen_id": 16,
     "opcion_id": 2,
     "plan_nombre": "Entel chip 25.90 R",
-    "ahorro_anual": 144,
+    "ahorro_anual": 168,
     "permite_downselling": true
   },
   {
@@ -1011,23 +1028,23 @@ export const lista_opcion = [
   {
     "origen_id": 18,
     "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 29.90 R",
+    "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
-      "10 GB en AV",
+      "25 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 15 GB"
+      "No pierde GB"
     ],
-    "ahorro_anual": 120,
+    "ahorro_anual": 36,
     "permite_downselling": true
   },
   {
     "origen_id": 18,
     "opcion_id": 2,
-    "plan_nombre": "Entel chip 25.90 R",
-    "ahorro_anual": 168,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 156,
     "permite_downselling": true
   },
   {
@@ -1153,14 +1170,14 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 5 GB"
     ],
-    "ahorro_anual": 72,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
     "origen_id": 24,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 192,
+    "ahorro_anual": 240,
     "permite_downselling": true
   },
   {
@@ -1219,62 +1236,18 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 10 GB"
     ],
-    "ahorro_anual": 168,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
     "origen_id": 27,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 288,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 28,
-    "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 39.90 R",
-    "lista_beneficios": [
-      "25 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_resumen": [
-      "Pierde 11 GB"
-    ],
-    "ahorro_anual": 120,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 28,
-    "opcion_id": 2,
-    "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 240,
     "permite_downselling": true
   },
   {
-    "origen_id": 29,
-    "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 39.90 R",
-    "lista_beneficios": [
-      "25 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_resumen": [
-      "Pierde 11 GB"
-    ],
-    "ahorro_anual": 120,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 29,
-    "opcion_id": 2,
-    "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 240,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 30,
+    "origen_id": 28,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1289,14 +1262,80 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 30,
+    "origen_id": 28,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 288,
     "permite_downselling": true
   },
   {
+    "origen_id": 29,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "lista_beneficios": [
+      "25 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 11 GB"
+    ],
+    "ahorro_anual": 120,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 29,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 240,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 30,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "lista_beneficios": [
+      "25 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 11 GB"
+    ],
+    "ahorro_anual": 120,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 30,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 240,
+    "permite_downselling": true
+  },
+  {
     "origen_id": 31,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "lista_beneficios": [
+      "25 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 10 GB"
+    ],
+    "ahorro_anual": 168,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 31,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 288,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 32,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1310,28 +1349,6 @@ export const lista_opcion = [
       "Pierde FB e IG Full",
       "Pierde roaming"
     ],
-    "ahorro_anual": 192,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 31,
-    "opcion_id": 2,
-    "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 312,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 32,
-    "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 39.90 R",
-    "lista_beneficios": [
-      "25 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_resumen": [
-      "Pierde 25 GB"
-    ],
     "ahorro_anual": 240,
     "permite_downselling": true
   },
@@ -1374,10 +1391,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 50 GB",
-      "Pierde spotify, apple music ilimitado.",
-      "Pierde FB e IG Full",
-      "Pierde 3GB Roaming"
+      "Pierde 25 GB"
     ],
     "ahorro_anual": 240,
     "permite_downselling": true
@@ -1404,18 +1418,43 @@ export const lista_opcion = [
       "Pierde FB e IG Full",
       "Pierde 3GB Roaming"
     ],
-    "ahorro_anual": 240,
+    "ahorro_anual": 288,
     "permite_downselling": true
   },
   {
     "origen_id": 35,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 360,
+    "ahorro_anual": 408,
     "permite_downselling": true
   },
   {
     "origen_id": 36,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "lista_beneficios": [
+      "25 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 50 GB",
+      "Pierde spotify, apple music ilimitado.",
+      "Pierde FB e IG Full",
+      "Pierde 3GB Roaming"
+    ],
+    "ahorro_anual": 240,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 36,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 360,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 37,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1431,14 +1470,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 36,
+    "origen_id": 37,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 360,
     "permite_downselling": true
   },
   {
-    "origen_id": 37,
+    "origen_id": 38,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1455,34 +1494,10 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 37,
+    "origen_id": 38,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 480,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 38,
-    "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 39.90 R",
-    "lista_beneficios": [
-      "25 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_resumen": [
-      "Pierde 60 GB",
-      "Pierde spotify, apple music ilimitado.",
-      "Pierde FB e IG Full"
-    ],
-    "ahorro_anual": 312,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 38,
-    "opcion_id": 2,
-    "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 432,
     "permite_downselling": true
   },
   {
@@ -1495,8 +1510,9 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde ilimitado y gana 9 GB en AV",
-      "Gana Whatsapp, waze ilimitado. FB e IG FULL"
+      "Pierde 60 GB",
+      "Pierde spotify, apple music ilimitado.",
+      "Pierde FB e IG Full"
     ],
     "ahorro_anual": 360,
     "permite_downselling": true
@@ -1521,14 +1537,14 @@ export const lista_opcion = [
       "Pierde ilimitado y gana 9 GB en AV",
       "Gana Whatsapp, waze ilimitado. FB e IG FULL"
     ],
-    "ahorro_anual": 312,
+    "ahorro_anual": 360,
     "permite_downselling": true
   },
   {
     "origen_id": 40,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 432,
+    "ahorro_anual": 480,
     "permite_downselling": true
   },
   {
@@ -1556,6 +1572,29 @@ export const lista_opcion = [
   },
   {
     "origen_id": 42,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "lista_beneficios": [
+      "25 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde ilimitado y gana 9 GB en AV",
+      "Gana Whatsapp, waze ilimitado. FB e IG FULL"
+    ],
+    "ahorro_anual": 312,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 42,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 432,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 43,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1571,14 +1610,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 42,
+    "origen_id": 43,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 432,
     "permite_downselling": true
   },
   {
-    "origen_id": 43,
+    "origen_id": 44,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1594,30 +1633,6 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 43,
-    "opcion_id": 2,
-    "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 540,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 44,
-    "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 39.90 R",
-    "lista_beneficios": [
-      "25 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_resumen": [
-      "Pierde 95 GB",
-      "Pierde spotify y apple music ilimitado, Fb e IG FULL",
-      "Pierde 3.5 GB roaming"
-    ],
-    "ahorro_anual": 420,
-    "permite_downselling": true
-  },
-  {
     "origen_id": 44,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
@@ -1638,18 +1653,42 @@ export const lista_opcion = [
       "Pierde spotify y apple music ilimitado, Fb e IG FULL",
       "Pierde 3.5 GB roaming"
     ],
-    "ahorro_anual": 420,
+    "ahorro_anual": 480,
     "permite_downselling": true
   },
   {
     "origen_id": 45,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 540,
+    "ahorro_anual": 600,
     "permite_downselling": true
   },
   {
     "origen_id": 46,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "lista_beneficios": [
+      "25 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 95 GB",
+      "Pierde spotify y apple music ilimitado, Fb e IG FULL",
+      "Pierde 3.5 GB roaming"
+    ],
+    "ahorro_anual": 420,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 46,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 540,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 47,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1666,14 +1705,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 46,
+    "origen_id": 47,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 600,
     "permite_downselling": true
   },
   {
-    "origen_id": 47,
+    "origen_id": 48,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1689,14 +1728,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 47,
+    "origen_id": 48,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 600,
     "permite_downselling": true
   },
   {
-    "origen_id": 48,
+    "origen_id": 49,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1712,14 +1751,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 48,
+    "origen_id": 49,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 600,
     "permite_downselling": true
   },
   {
-    "origen_id": 49,
+    "origen_id": 50,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1734,14 +1773,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 49,
+    "origen_id": 50,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 658,
     "permite_downselling": true
   },
   {
-    "origen_id": 50,
+    "origen_id": 51,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1754,18 +1793,18 @@ export const lista_opcion = [
       "Pierde soundcloud, spotify y apple music ilimitado.",
       "Pierde Fb e IG full."
     ],
-    "ahorro_anual": 540,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 50,
-    "opcion_id": 2,
-    "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 660,
+    "ahorro_anual": 600,
     "permite_downselling": true
   },
   {
     "origen_id": 51,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 720,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 52,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1782,14 +1821,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 51,
+    "origen_id": 52,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
-    "origen_id": 52,
+    "origen_id": 53,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1805,14 +1844,37 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 52,
+    "origen_id": 53,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
-    "origen_id": 53,
+    "origen_id": 54,
+    "opcion_id": 1,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "lista_beneficios": [
+      "25 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde ilimitado sin fair use en alta velocidad",
+      "Pierde roaming"
+    ],
+    "ahorro_anual": 600,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 54,
+    "opcion_id": 2,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 720,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 55,
     "opcion_id": 1,
     "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
@@ -1829,14 +1891,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 53,
+    "origen_id": 55,
     "opcion_id": 2,
     "plan_nombre": "Entel chip+ 29.90 R",
     "ahorro_anual": 780,
     "permite_downselling": true
   },
   {
-    "origen_id": 54,
+    "origen_id": 56,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -1851,50 +1913,6 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 54,
-    "opcion_id": 2,
-    "plan_nombre": "Entel Power Chip 66.90",
-    "ahorro_anual": 396,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 55,
-    "opcion_id": 1,
-    "plan_nombre": "Entel power 89.90 SD R",
-    "lista_beneficios": [
-      "Ilimitado en AV",
-      "Roaming: 3.5 GB"
-    ],
-    "lista_resumen": [
-      "Gana ilimitado en AV",
-      "Pierde 0.5 GB Roaming"
-    ],
-    "ahorro_anual": 120,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 55,
-    "opcion_id": 2,
-    "plan_nombre": "Entel Power Chip 66.90",
-    "ahorro_anual": 396,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 56,
-    "opcion_id": 1,
-    "plan_nombre": "Entel power 89.90 SD R",
-    "lista_beneficios": [
-      "Ilimitado en AV",
-      "Roaming: 3.5 GB"
-    ],
-    "lista_resumen": [
-      "Gana ilimitado en AV",
-      "Pierde 0.5 GB Roaming"
-    ],
-    "ahorro_anual": 120,
-    "permite_downselling": true
-  },
-  {
     "origen_id": 56,
     "opcion_id": 2,
     "plan_nombre": "Entel Power Chip 66.90",
@@ -1925,6 +1943,50 @@ export const lista_opcion = [
   },
   {
     "origen_id": 58,
+    "opcion_id": 1,
+    "plan_nombre": "Entel power 89.90 SD R",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_resumen": [
+      "Gana ilimitado en AV",
+      "Pierde 0.5 GB Roaming"
+    ],
+    "ahorro_anual": 120,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 58,
+    "opcion_id": 2,
+    "plan_nombre": "Entel Power Chip 66.90",
+    "ahorro_anual": 396,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 59,
+    "opcion_id": 1,
+    "plan_nombre": "Entel power 89.90 SD R",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_resumen": [
+      "Gana ilimitado en AV",
+      "Pierde 0.5 GB Roaming"
+    ],
+    "ahorro_anual": 120,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 59,
+    "opcion_id": 2,
+    "plan_nombre": "Entel Power Chip 66.90",
+    "ahorro_anual": 396,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 60,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -1934,18 +1996,18 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 1.5GB roaming"
     ],
-    "ahorro_anual": 120,
+    "ahorro_anual": 180,
     "permite_downselling": true
   },
   {
-    "origen_id": 58,
+    "origen_id": 60,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 300,
+    "ahorro_anual": 360,
     "permite_downselling": true
   },
   {
-    "origen_id": 59,
+    "origen_id": 61,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -1960,14 +2022,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 59,
+    "origen_id": 61,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 420,
     "permite_downselling": true
   },
   {
-    "origen_id": 60,
+    "origen_id": 62,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -1982,14 +2044,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 60,
+    "origen_id": 62,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 492,
     "permite_downselling": true
   },
   {
-    "origen_id": 61,
+    "origen_id": 63,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2000,18 +2062,18 @@ export const lista_opcion = [
       "Gana ilimitado en AV",
       "Pierde 2GB Roaming"
     ],
-    "ahorro_anual": 240,
+    "ahorro_anual": 312,
     "permite_downselling": true
   },
   {
-    "origen_id": 61,
+    "origen_id": 63,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 420,
+    "ahorro_anual": 492,
     "permite_downselling": true
   },
   {
-    "origen_id": 62,
+    "origen_id": 64,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2026,14 +2088,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 62,
+    "origen_id": 64,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 420,
     "permite_downselling": true
   },
   {
-    "origen_id": 63,
+    "origen_id": 65,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2048,14 +2110,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 63,
+    "origen_id": 65,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 550,
     "permite_downselling": true
   },
   {
-    "origen_id": 64,
+    "origen_id": 66,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2070,14 +2132,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 64,
+    "origen_id": 66,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 624,
     "permite_downselling": true
   },
   {
-    "origen_id": 65,
+    "origen_id": 67,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2092,50 +2154,6 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 65,
-    "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 660,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 66,
-    "opcion_id": 1,
-    "plan_nombre": "Entel power 89.90 SD R",
-    "lista_beneficios": [
-      "Ilimitado en AV",
-      "Roaming: 3.5 GB"
-    ],
-    "lista_resumen": [
-      "Gana ilimitado en AV",
-      "Pierde 4.5GB Roaming"
-    ],
-    "ahorro_anual": 480,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 66,
-    "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 660,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 67,
-    "opcion_id": 1,
-    "plan_nombre": "Entel power 89.90 SD R",
-    "lista_beneficios": [
-      "Ilimitado en AV",
-      "Roaming: 3.5 GB"
-    ],
-    "lista_resumen": [
-      "Gana ilimitado en AV",
-      "Pierde 4.5GB Roaming"
-    ],
-    "ahorro_anual": 480,
-    "permite_downselling": true
-  },
-  {
     "origen_id": 67,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
@@ -2144,6 +2162,50 @@ export const lista_opcion = [
   },
   {
     "origen_id": 68,
+    "opcion_id": 1,
+    "plan_nombre": "Entel power 89.90 SD R",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_resumen": [
+      "Gana ilimitado en AV",
+      "Pierde 4.5GB Roaming"
+    ],
+    "ahorro_anual": 480,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 68,
+    "opcion_id": 2,
+    "plan_nombre": "Entel power+ 74.90 R",
+    "ahorro_anual": 660,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 69,
+    "opcion_id": 1,
+    "plan_nombre": "Entel power 89.90 SD R",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_resumen": [
+      "Gana ilimitado en AV",
+      "Pierde 4.5GB Roaming"
+    ],
+    "ahorro_anual": 480,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 69,
+    "opcion_id": 2,
+    "plan_nombre": "Entel power+ 74.90 R",
+    "ahorro_anual": 660,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 70,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2158,14 +2220,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 68,
+    "origen_id": 70,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 852,
     "permite_downselling": true
   },
   {
-    "origen_id": 69,
+    "origen_id": 71,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2177,39 +2239,39 @@ export const lista_opcion = [
       "Gana 2.5GB Roaming"
     ],
     "ahorro_anual": 720,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 69,
-    "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 900,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 70,
-    "opcion_id": 1,
-    "plan_nombre": "Entel power 89.90 SD R",
-    "lista_beneficios": [
-      "Ilimitado en AV",
-      "Roaming: 3.5 GB"
-    ],
-    "lista_resumen": [
-      "Gana ilimitado en AV",
-      "Gana 2.5GB Roaming"
-    ],
-    "ahorro_anual": 720,
-    "permite_downselling": true
-  },
-  {
-    "origen_id": 70,
-    "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 900,
     "permite_downselling": true
   },
   {
     "origen_id": 71,
+    "opcion_id": 2,
+    "plan_nombre": "Entel power+ 74.90 R",
+    "ahorro_anual": 900,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 72,
+    "opcion_id": 1,
+    "plan_nombre": "Entel power 89.90 SD R",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_resumen": [
+      "Gana ilimitado en AV",
+      "Gana 2.5GB Roaming"
+    ],
+    "ahorro_anual": 720,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 72,
+    "opcion_id": 2,
+    "plan_nombre": "Entel power+ 74.90 R",
+    "ahorro_anual": 900,
+    "permite_downselling": true
+  },
+  {
+    "origen_id": 73,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2224,14 +2286,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 71,
+    "origen_id": 73,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 972,
     "permite_downselling": true
   },
   {
-    "origen_id": 72,
+    "origen_id": 74,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2246,14 +2308,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 72,
+    "origen_id": 74,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 978,
     "permite_downselling": true
   },
   {
-    "origen_id": 73,
+    "origen_id": 75,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2268,14 +2330,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 73,
+    "origen_id": 75,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 1020,
     "permite_downselling": true
   },
   {
-    "origen_id": 74,
+    "origen_id": 76,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2290,14 +2352,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 74,
+    "origen_id": 76,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 1020,
     "permite_downselling": true
   },
   {
-    "origen_id": 75,
+    "origen_id": 77,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2312,14 +2374,14 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 75,
+    "origen_id": 77,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 1500,
     "permite_downselling": true
   },
   {
-    "origen_id": 76,
+    "origen_id": 78,
     "opcion_id": 1,
     "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
@@ -2334,7 +2396,7 @@ export const lista_opcion = [
     "permite_downselling": true
   },
   {
-    "origen_id": 76,
+    "origen_id": 78,
     "opcion_id": 2,
     "plan_nombre": "Entel power+ 74.90 R",
     "ahorro_anual": 1500,
