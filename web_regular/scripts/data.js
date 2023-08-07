@@ -13,7 +13,7 @@ export const lista_origen = [
     "origen_id": 2,
     "origen_nombre": "Entel Chip 22.90 REV",
     "lista_beneficios": [
-      "4 GB en AV",
+      "5 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -31,7 +31,7 @@ export const lista_origen = [
     "origen_id": 4,
     "origen_nombre": "Entel Chip+ 22.90 PLUS",
     "lista_beneficios": [
-      "4 GB en AV",
+      "5 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -49,7 +49,7 @@ export const lista_origen = [
     "origen_id": 6,
     "origen_nombre": "Entel Chip 27.90 REV",
     "lista_beneficios": [
-      "6 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -58,7 +58,7 @@ export const lista_origen = [
     "origen_id": 7,
     "origen_nombre": "Entel Chip 25.90 REV R",
     "lista_beneficios": [
-      "6 GB en AV",
+      "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -67,7 +67,7 @@ export const lista_origen = [
     "origen_id": 8,
     "origen_nombre": "Entel Chip 27.90",
     "lista_beneficios": [
-      "6 GB en AV",
+      "10 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -76,7 +76,7 @@ export const lista_origen = [
     "origen_id": 9,
     "origen_nombre": "Entel Chip 25.90 R",
     "lista_beneficios": [
-      "6 GB en AV",
+      "8 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -85,7 +85,7 @@ export const lista_origen = [
     "origen_id": 10,
     "origen_nombre": "Entel chip+ 32.90 REV",
     "lista_beneficios": [
-      "10 GB en AV",
+      "14 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -103,7 +103,7 @@ export const lista_origen = [
     "origen_id": 12,
     "origen_nombre": "Entel simple+ 32.90",
     "lista_beneficios": [
-      "10 GB en AV",
+      "14 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -121,7 +121,7 @@ export const lista_origen = [
     "origen_id": 14,
     "origen_nombre": "Entel chip+ 32.90",
     "lista_beneficios": [
-      "10 GB en AV",
+      "14 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -139,7 +139,7 @@ export const lista_origen = [
     "origen_id": 16,
     "origen_nombre": "Entel Chip 31.40 REV",
     "lista_beneficios": [
-      "11 GB en AV",
+      "13 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -148,7 +148,7 @@ export const lista_origen = [
     "origen_id": 17,
     "origen_nombre": "Postpago SIMple 31.40",
     "lista_beneficios": [
-      "11 GB en AV",
+      "13 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -157,7 +157,7 @@ export const lista_origen = [
     "origen_id": 18,
     "origen_nombre": "Entel Chip 31.40 B",
     "lista_beneficios": [
-      "11 GB en AV",
+      "13 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -166,7 +166,7 @@ export const lista_origen = [
     "origen_id": 19,
     "origen_nombre": "Entel Chip 31.40",
     "lista_beneficios": [
-      "11 GB en AV",
+      "13 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -175,7 +175,7 @@ export const lista_origen = [
     "origen_id": 20,
     "origen_nombre": "Postpago SIMple 35.90 Plus",
     "lista_beneficios": [
-      "15 GB en AV",
+      "18 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -184,7 +184,7 @@ export const lista_origen = [
     "origen_id": 21,
     "origen_nombre": "Entel Chip 35.90",
     "lista_beneficios": [
-      "15 GB en AV",
+      "18 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -193,7 +193,7 @@ export const lista_origen = [
     "origen_id": 22,
     "origen_nombre": "Entel Chip 39.90 Plus",
     "lista_beneficios": [
-      "20 GB en AV",
+      "30 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -202,7 +202,7 @@ export const lista_origen = [
     "origen_id": 23,
     "origen_nombre": "Entel Simple+ 42.90",
     "lista_beneficios": [
-      "25 GB en AV",
+      "34 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -220,7 +220,7 @@ export const lista_origen = [
     "origen_id": 25,
     "origen_nombre": "Entel chip+ 42.90",
     "lista_beneficios": [
-      "25 GB en AV",
+      "34 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -246,7 +246,7 @@ export const lista_origen = [
     "origen_id": 28,
     "origen_nombre": "Entel Chip 45.90 REV",
     "lista_beneficios": [
-      "28 GB en AV",
+      "37 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -255,7 +255,7 @@ export const lista_origen = [
     "origen_id": 29,
     "origen_nombre": "Postpago SIMple 45.90 Plus",
     "lista_beneficios": [
-      "28 GB en AV",
+      "37 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -264,7 +264,7 @@ export const lista_origen = [
     "origen_id": 30,
     "origen_nombre": "Entel Chip 45.90 Plus",
     "lista_beneficios": [
-      "28 GB en AV",
+      "37 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -273,7 +273,7 @@ export const lista_origen = [
     "origen_id": 31,
     "origen_nombre": "Entel Chip 49.90 Plus",
     "lista_beneficios": [
-      "30 GB en AV",
+      "41 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -282,7 +282,7 @@ export const lista_origen = [
     "origen_id": 32,
     "origen_nombre": "Entel Chip 52.90 Plus",
     "lista_beneficios": [
-      "32 GB en AV",
+      "43 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -291,7 +291,7 @@ export const lista_origen = [
     "origen_id": 33,
     "origen_nombre": "Entel power+ 53.90",
     "lista_beneficios": [
-      "35 GB en AV",
+      "47 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -309,7 +309,7 @@ export const lista_origen = [
     "origen_id": 35,
     "origen_nombre": "Entel Chip 53.90 Plus B",
     "lista_beneficios": [
-      "35 GB en AV",
+      "47 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -336,7 +336,7 @@ export const lista_origen = [
     "origen_id": 38,
     "origen_nombre": "Entel Chip 53.90 Plus",
     "lista_beneficios": [
-      "35 GB en AV",
+      "47 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -345,7 +345,7 @@ export const lista_origen = [
     "origen_id": 39,
     "origen_nombre": "Entel power+ 59.90",
     "lista_beneficios": [
-      "50 GB en AV",
+      "75 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 2.5 GB"
     ]
@@ -354,7 +354,7 @@ export const lista_origen = [
     "origen_id": 40,
     "origen_nombre": "Entel Chip 59.90 Plus",
     "lista_beneficios": [
-      "50 GB en AV",
+      "75 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -363,7 +363,7 @@ export const lista_origen = [
     "origen_id": 41,
     "origen_nombre": "Entel Chip 59.90 Plus B",
     "lista_beneficios": [
-      "50 GB en AV",
+      "75 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -372,7 +372,7 @@ export const lista_origen = [
     "origen_id": 42,
     "origen_nombre": "Entel power+ 63.90",
     "lista_beneficios": [
-      "75 GB en AV",
+      "85 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 3 GB"
     ]
@@ -381,7 +381,7 @@ export const lista_origen = [
     "origen_id": 43,
     "origen_nombre": "Entel power+ 59.90 R",
     "lista_beneficios": [
-      "75 GB en AV",
+      "85 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 3 GB"
     ]
@@ -398,7 +398,7 @@ export const lista_origen = [
     "origen_id": 45,
     "origen_nombre": "Entel Chip 69.90 Plus B",
     "lista_beneficios": [
-      "85 GB en AV",
+      "95 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: no tiene"
     ]
@@ -407,7 +407,7 @@ export const lista_origen = [
     "origen_id": 46,
     "origen_nombre": "Entel Chip 69.90 Plus",
     "lista_beneficios": [
-      "85 GB en AV",
+      "95 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: no tiene"
     ]
@@ -416,7 +416,7 @@ export const lista_origen = [
     "origen_id": 47,
     "origen_nombre": "Entel Power 69.90 P",
     "lista_beneficios": [
-      "Ilimitado con 16 GB en AV",
+      "Ilimitado con 20 GB en AV",
       "Roaming: no tiene"
     ]
   },
@@ -448,7 +448,7 @@ export const lista_origen = [
     "origen_id": 51,
     "origen_nombre": "Entel Power 74.90 A",
     "lista_beneficios": [
-      "Ilimitado con 26 GB en AV",
+      "Ilimitado con 30 GB en AV",
       "Roaming: no tiene"
     ]
   },
@@ -456,7 +456,7 @@ export const lista_origen = [
     "origen_id": 52,
     "origen_nombre": "Entel power+ 79.90",
     "lista_beneficios": [
-      "120 GB en AV",
+      "130 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 3.5 GB"
     ]
@@ -474,7 +474,7 @@ export const lista_origen = [
     "origen_id": 54,
     "origen_nombre": "Entel Chip 79.90 Plus",
     "lista_beneficios": [
-      "100 GB en AV",
+      "130 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: no tiene"
     ]
@@ -483,7 +483,7 @@ export const lista_origen = [
     "origen_id": 55,
     "origen_nombre": "Entel Power 79.90 B",
     "lista_beneficios": [
-      "Ilimitado con 100 GB en AV",
+      "Ilimitado con 110 GB en AV",
       "Roaming: no tiene"
     ]
   },
@@ -491,7 +491,7 @@ export const lista_origen = [
     "origen_id": 56,
     "origen_nombre": "Entel Power 79.90",
     "lista_beneficios": [
-      "100 GB en AV",
+      "Ilimitado con 110 GB en AV",
       "Roaming: no tiene"
     ]
   },
@@ -507,7 +507,7 @@ export const lista_origen = [
     "origen_id": 58,
     "origen_nombre": "Entel Chip 89.90",
     "lista_beneficios": [
-      "110 GB en AV",
+      "140 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: no tiene"
     ]
@@ -516,7 +516,7 @@ export const lista_origen = [
     "origen_id": 59,
     "origen_nombre": "Entel Control 89.90",
     "lista_beneficios": [
-      "9 GB en AV",
+      "14 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: no tiene"
     ]
@@ -541,7 +541,7 @@ export const lista_origen = [
     "origen_id": 62,
     "origen_nombre": "Entel Chip 94.90",
     "lista_beneficios": [
-      "115 GB en AV",
+      "120 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: no tiene"
     ]
@@ -550,7 +550,7 @@ export const lista_origen = [
     "origen_id": 63,
     "origen_nombre": "Entel Chip 99.90 Plus",
     "lista_beneficios": [
-      "16 GB en AV",
+      "21 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: 1 GB"
     ]
@@ -568,7 +568,7 @@ export const lista_origen = [
     "origen_id": 65,
     "origen_nombre": "Entel Power 99.90",
     "lista_beneficios": [
-      "Ilimitado con 125 GB en AV",
+      "Ilimitado con 135 GB en AV",
       "Roaming: 4 GB"
     ]
   },
@@ -576,7 +576,7 @@ export const lista_origen = [
     "origen_id": 66,
     "origen_nombre": "Entel Power 99.90 B",
     "lista_beneficios": [
-      "Ilimitado con 125 GB en AV",
+      "Ilimitado con 135 GB en AV",
       "Roaming: 4 GB"
     ]
   },
@@ -592,7 +592,7 @@ export const lista_origen = [
     "origen_id": 68,
     "origen_nombre": "Entel Chip 109.90 Plus",
     "lista_beneficios": [
-      "17 GB en AV",
+      "22 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: 1 GB"
     ]
@@ -601,7 +601,7 @@ export const lista_origen = [
     "origen_id": 69,
     "origen_nombre": "Entel Chip 115.90 Plus",
     "lista_beneficios": [
-      "18 GB en AV",
+      "23 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: 3 GB"
     ]
@@ -610,7 +610,7 @@ export const lista_origen = [
     "origen_id": 70,
     "origen_nombre": "Entel Power 115.90",
     "lista_beneficios": [
-      "Ilimitado 140 GB en AV",
+      "Ilimitado 150 GB en AV",
       "Roaming: 5.5 GB"
     ]
   },
@@ -626,7 +626,7 @@ export const lista_origen = [
     "origen_id": 72,
     "origen_nombre": "Entel Chip 120.80",
     "lista_beneficios": [
-      "20 GB en AV",
+      "25 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: 3 GB"
     ]
@@ -635,7 +635,7 @@ export const lista_origen = [
     "origen_id": 73,
     "origen_nombre": "Entel Chip 126.90",
     "lista_beneficios": [
-      "8 GB en AV",
+      "13 GB en AV",
       "Whatsapp, waze, spotify, apple music y soundcloud ilimitado. FB e IG FULL",
       "Roaming: 1 GB"
     ]
@@ -1537,7 +1537,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 25 GB",
+      "Pierde 50 GB",
       "Pierde spotify, apple music ilimitado.",
       "Pierde FB e IG Full",
       "Pierde roaming"
@@ -1631,7 +1631,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 50 GB",
+      "Pierde 60 GB",
       "Pierde spotify, apple music ilimitado.",
       "Pierde FB e IG Full",
       "Pierde 3GB Roaming"
@@ -1656,7 +1656,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 35 GB",
+      "Pierde 25 GB",
       "Gana RRSS ilimitadas"
     ],
     "ahorro_anual": 240,
