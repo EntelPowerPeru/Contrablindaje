@@ -121,7 +121,7 @@ export const lista_origen = [
     "origen_id": 14,
     "origen_nombre": "Entel chip+ 32.90",
     "lista_beneficios": [
-      "14 GB en AV",
+      "28 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -184,7 +184,7 @@ export const lista_origen = [
     "origen_id": 21,
     "origen_nombre": "Entel Chip 35.90",
     "lista_beneficios": [
-      "18 GB en AV",
+      "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -193,7 +193,7 @@ export const lista_origen = [
     "origen_id": 22,
     "origen_nombre": "Entel Chip 39.90 Plus",
     "lista_beneficios": [
-      "30 GB en AV",
+      "45 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -264,7 +264,7 @@ export const lista_origen = [
     "origen_id": 30,
     "origen_nombre": "Entel Chip 45.90 Plus",
     "lista_beneficios": [
-      "37 GB en AV",
+      "55 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -273,7 +273,7 @@ export const lista_origen = [
     "origen_id": 31,
     "origen_nombre": "Entel Chip 49.90 Plus",
     "lista_beneficios": [
-      "41 GB en AV",
+      "65 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -827,11 +827,17 @@ export const lista_opcion = [
   {
     "origen_id": 6,
     "opcion_id": 1,
-    "plan_nombre": "null",
-    "lista_beneficios": null,
-    "lista_resumen": null,
-    "ahorro_anual": null,
-    "permite_downselling": false
+    "plan_nombre": "Entel Chip 25.90 R",
+    "lista_beneficios": [
+      "8 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 2 GB"
+    ],
+    "ahorro_anual": 24,
+    "permite_downselling": true
   },
   {
     "origen_id": 6,
@@ -859,11 +865,17 @@ export const lista_opcion = [
   {
     "origen_id": 8,
     "opcion_id": 1,
-    "plan_nombre": "null",
-    "lista_beneficios": null,
-    "lista_resumen": null,
-    "ahorro_anual": null,
-    "permite_downselling": false
+    "plan_nombre": "Entel Chip 25.90 R",
+    "lista_beneficios": [
+      "8 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_resumen": [
+      "Pierde 2 GB"
+    ],
+    "ahorro_anual": 24,
+    "permite_downselling": true
   },
   {
     "origen_id": 8,
@@ -1265,24 +1277,24 @@ export const lista_opcion = [
   {
     "origen_id": 27,
     "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 29.90 R",
+    "plan_nombre": "Entel chip+ 39.90 R",
     "lista_beneficios": [
-      "10 GB en AV",
+      "25 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB en AV",
+      "Gana 12 GB en AV",
       "Gana Whatsapp y waze ilimitado , FB e IG fotos"
     ],
-    "ahorro_anual": 144,
+    "ahorro_anual": 24,
     "permite_downselling": true
   },
   {
     "origen_id": 27,
     "opcion_id": 2,
-    "plan_nombre": "Entel chip 25.90 R",
-    "ahorro_anual": 192,
+    "plan_nombre": "Entel chip+ 29.90 R",
+    "ahorro_anual": 144,
     "permite_downselling": true
   },
   {
@@ -2069,25 +2081,23 @@ export const lista_opcion = [
   {
     "origen_id": 62,
     "opcion_id": 1,
-    "plan_nombre": "Entel chip+ 39.90 R",
+    "plan_nombre": "Entel power 89.90 SD R",
     "lista_beneficios": [
-      "25 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Pierde 95 GB",
-      "Pierde Fb e IG Full",
-      "Pierde soundcloud, spotify y apple music ilimitado"
+      "Gana ilimitado en AV",
+      "Gana 2.5GB Roaming"
     ],
-    "ahorro_anual": 660,
+    "ahorro_anual": 60,
     "permite_downselling": true
   },
   {
     "origen_id": 62,
     "opcion_id": 2,
-    "plan_nombre": "Entel chip+ 29.90 R",
-    "ahorro_anual": 780,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 660,
     "permite_downselling": true
   },
   {
@@ -2108,8 +2118,8 @@ export const lista_opcion = [
   {
     "origen_id": 63,
     "opcion_id": 2,
-    "plan_nombre": "Entel Power Chip 66.90",
-    "ahorro_anual": 396,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
@@ -2130,8 +2140,8 @@ export const lista_opcion = [
   {
     "origen_id": 64,
     "opcion_id": 2,
-    "plan_nombre": "Entel Power Chip 66.90",
-    "ahorro_anual": 396,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
@@ -2152,8 +2162,8 @@ export const lista_opcion = [
   {
     "origen_id": 65,
     "opcion_id": 2,
-    "plan_nombre": "Entel Power Chip 66.90",
-    "ahorro_anual": 396,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
@@ -2174,8 +2184,8 @@ export const lista_opcion = [
   {
     "origen_id": 66,
     "opcion_id": 2,
-    "plan_nombre": "Entel Power Chip 66.90",
-    "ahorro_anual": 396,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 720,
     "permite_downselling": true
   },
   {
@@ -2195,8 +2205,8 @@ export const lista_opcion = [
   {
     "origen_id": 67,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 360,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 780,
     "permite_downselling": true
   },
   {
@@ -2217,8 +2227,8 @@ export const lista_opcion = [
   {
     "origen_id": 68,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 420,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 840,
     "permite_downselling": true
   },
   {
@@ -2239,8 +2249,8 @@ export const lista_opcion = [
   {
     "origen_id": 69,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 492,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 912,
     "permite_downselling": true
   },
   {
@@ -2261,8 +2271,8 @@ export const lista_opcion = [
   {
     "origen_id": 70,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 492,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 912,
     "permite_downselling": true
   },
   {
@@ -2283,8 +2293,8 @@ export const lista_opcion = [
   {
     "origen_id": 71,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 420,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 840,
     "permite_downselling": true
   },
   {
@@ -2305,8 +2315,8 @@ export const lista_opcion = [
   {
     "origen_id": 72,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 550,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 970,
     "permite_downselling": true
   },
   {
@@ -2327,8 +2337,8 @@ export const lista_opcion = [
   {
     "origen_id": 73,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 624,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1044,
     "permite_downselling": true
   },
   {
@@ -2349,8 +2359,8 @@ export const lista_opcion = [
   {
     "origen_id": 74,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 660,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1080,
     "permite_downselling": true
   },
   {
@@ -2371,8 +2381,8 @@ export const lista_opcion = [
   {
     "origen_id": 75,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 660,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1080,
     "permite_downselling": true
   },
   {
@@ -2393,8 +2403,8 @@ export const lista_opcion = [
   {
     "origen_id": 76,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 660,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1080,
     "permite_downselling": true
   },
   {
@@ -2415,8 +2425,8 @@ export const lista_opcion = [
   {
     "origen_id": 77,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 852,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1272,
     "permite_downselling": true
   },
   {
@@ -2437,8 +2447,8 @@ export const lista_opcion = [
   {
     "origen_id": 78,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 900,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1320,
     "permite_downselling": true
   },
   {
@@ -2459,8 +2469,8 @@ export const lista_opcion = [
   {
     "origen_id": 79,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 900,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1320,
     "permite_downselling": true
   },
   {
@@ -2481,8 +2491,8 @@ export const lista_opcion = [
   {
     "origen_id": 80,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 972,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1392,
     "permite_downselling": true
   },
   {
@@ -2503,8 +2513,8 @@ export const lista_opcion = [
   {
     "origen_id": 81,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 978,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1398,
     "permite_downselling": true
   },
   {
@@ -2525,8 +2535,8 @@ export const lista_opcion = [
   {
     "origen_id": 82,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 1020,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1440,
     "permite_downselling": true
   },
   {
@@ -2547,8 +2557,8 @@ export const lista_opcion = [
   {
     "origen_id": 83,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 1020,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1440,
     "permite_downselling": true
   },
   {
@@ -2569,8 +2579,8 @@ export const lista_opcion = [
   {
     "origen_id": 84,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 1500,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1920,
     "permite_downselling": true
   },
   {
@@ -2591,8 +2601,8 @@ export const lista_opcion = [
   {
     "origen_id": 85,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 74.90 R",
-    "ahorro_anual": 1500,
+    "plan_nombre": "Entel chip+ 39.90 R",
+    "ahorro_anual": 1920,
     "permite_downselling": true
   },
 ];
