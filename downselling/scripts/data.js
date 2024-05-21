@@ -645,7 +645,7 @@ export const lista_origen = [
   },
   {
     "q_linea": 3,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -1161,7 +1161,7 @@ export const lista_origen = [
   },
   {
     "q_linea": 4,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -1677,7 +1677,7 @@ export const lista_origen = [
   },
   {
     "q_linea": 5,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -4231,7 +4231,7 @@ export const lista_opciones = [
     "opcion_id": 1,
     "opcion_nombre": "Entel Power 44.90 C",
     "q_linea": 3,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -4250,7 +4250,7 @@ export const lista_opciones = [
     "opcion_id": 2,
     "opcion_nombre": "Entel Power Familiar 39.90 C",
     "q_linea": 3,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -6003,7 +6003,7 @@ export const lista_opciones = [
     "opcion_id": 1,
     "opcion_nombre": "Entel Power 44.90 C",
     "q_linea": 4,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -6022,7 +6022,7 @@ export const lista_opciones = [
     "opcion_id": 2,
     "opcion_nombre": "Entel Power Familiar 39.90 C",
     "q_linea": 4,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -7775,7 +7775,7 @@ export const lista_opciones = [
     "opcion_id": 1,
     "opcion_nombre": "Entel Power 44.90 C",
     "q_linea": 5,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -7794,7 +7794,7 @@ export const lista_opciones = [
     "opcion_id": 2,
     "opcion_nombre": "Entel Power Familiar 39.90 C",
     "q_linea": 5,
-    "origen_nombre": "Entel Power 54.90",
+    "origen_nombre": "Entel Power 54.90 C",
     "lista_beneficios": [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
