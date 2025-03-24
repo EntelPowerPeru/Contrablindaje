@@ -476,15 +476,6 @@ export const lista_origen = [
     ]
   },
   {
-    "origen_id": 54,
-    "origen_nombre": "Entel Power Familiar+ 63.90",
-    "lista_beneficios": [
-      "84 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
-      "Roaming: 3 GB"
-    ]
-  },
-  {
     "origen_id": 55,
     "origen_nombre": "Entel Chip 63.90 Plus",
     "lista_beneficios": [
